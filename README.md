@@ -9,7 +9,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=astrocodex&show_icons=true&include_all_commits=true&theme=dark&&count_private=truehide_border=true" alt="Selem's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrocodex&layout=compact&theme=dark&hide_border=true&count_private=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=astrocodex&show_icons=true&include_all_commits=true&theme=dark&&count_private=truehide_border=true" alt="Selem's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AstrocodeX&layout=compact&theme=dark&hide_border=true&count_private=true" /> |
 | ------------- | ------------- |
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AstrocodeX)](https://github.com/anuraghazra/github-readme-stats)
 
 
