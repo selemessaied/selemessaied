@@ -12,6 +12,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=astrocodex&show_icons=true&include_all_commits=true&theme=dark&&count_private=truehide_border=true" alt="Selem's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AstrocodeX&layout=compact&theme=dark&hide_border=true&count_private=true" /> |
 | ------------- | ------------- |
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AstrocodeX)](https://github.com/anuraghazra/github-readme-stats)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=AstrocodeX&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
