@@ -1,6 +1,6 @@
 ### Hello there  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-🔗 &nbsp;**Connect with me**
+**Connect with me**
 <p align="left">
 <a href="https://linkedin.com/in/selem-essaied-40416a187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selemessaiedLN" height="30" width="40" /></a>
 
