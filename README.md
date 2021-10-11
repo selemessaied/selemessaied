@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<AstrocodeX>&theme=<THEME_NAME>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrocodex)](https://github.com/astrocodex/github-readme-stats)
 
 
 <!--
