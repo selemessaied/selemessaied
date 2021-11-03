@@ -1,5 +1,7 @@
 ### Hello there  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+**Website**
+  <a href="https://selemessaied.com" target="blank">selemessaied.com</a>
 **Connect with me**
 <p align="left">
 <a href="https://linkedin.com/in/selem-essaied-40416a187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selemessaiedLN" height="30" width="40" /></a>
@@ -15,7 +17,9 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/jest/jest.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cypress/cypress.png"></code>  
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=astrocodex&show_icons=true&include_all_commits=true&theme=dark&&count_private=truehide_border=true" alt="Selem's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AstrocodeX&layout=compact&theme=dark&hide_border=true&count_private=true" /> |
